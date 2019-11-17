@@ -1,4 +1,8 @@
 ## NOTICE
+##THIS IS EXPERIMENTAL ONLY - DO NOT USE FOR COMPETITION
+Testing this as a base for running the robot only on the older Modern Robotics Core modules, with no REV Expansion hub.  This is not legal for 2019/2020 competition (or future).
+
+---
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
 
